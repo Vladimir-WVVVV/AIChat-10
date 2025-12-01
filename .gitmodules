@@ -2,3 +2,7 @@
 	path = app
 	url = https://github.com/Vladimir-WVVVV/AIChat-Android.git
 	branch = main
+[submodule "server"]
+	path = server
+	url = https://github.com/Vladimir-WVVVV/AIChat-Server.git
+	branch = main
